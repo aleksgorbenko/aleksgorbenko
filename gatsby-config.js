@@ -1,7 +1,7 @@
 module.exports = {
 	siteMetadata: {
 		title: 'Aleks Gorbeko',
-		author: 'Kyle Mathews',
+		author: 'Aleks Gorbenko',
 		description: 'A starter blog demonstrating what Gatsby can do.',
 		siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
 		social: {
@@ -9,6 +9,7 @@ module.exports = {
 		}
 	},
 	plugins: [
+		'gatsby-plugin-styled-components',
 		{
 			resolve: 'gatsby-source-filesystem',
 			options: {
