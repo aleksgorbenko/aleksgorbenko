@@ -7,9 +7,12 @@
 - 📝 [My blog](https://aleksgorbenko.dev)
 
 ### _status
+
 - 🏗️ Preparing for [ITPEC FE Exam](https://itpec.org) with the goal to move to Japan 🇯🇵
 - 💬 Learning Japanese with [WaniKani](https://www.wanikani.com), [BunPro](https://bunpro.jp) and ChatGPT
 - 📖 Reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
+_As of July 2025_
 
 ### _links
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
