@@ -1,15 +1,17 @@
 ## 👋 Hi there, I am Aleks
 
-- 👤 Who am I and my past work experiences -> https://github.com/aleksgorbenko/whoami
+- 👤 [Who am I and my past work experiences](https://github.com/aleksgorbenko/whoami) 
 
-- 👨🏻‍💻 How I work -> https://github.com/aleksgorbenko/howiwork
+- 👨🏻‍💻 [How I work](https://github.com/aleksgorbenko/howiwork)
 
-- 📝 My blog -> https://aleksgorbenko.dev
+- 📝 [My blog](https://aleksgorbenko.dev)
 
-### Current Status
+### _status
 - 🏗️ Preparing for [ITPEC FE Exam](https://itpec.org) with the goal to move to Japan 🇯🇵
+- 💬 Learning Japanese with [WaniKani](https://www.wanikani.com), [BunPro](https://bunpro.jp) and ChatGPT
+- 📖 Reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
-### Links
+### _links
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
 - 📸 [Instagram](https://www.instagram.com/aleksgbko/) - architecture | street | urban photography
 
