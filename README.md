@@ -4,8 +4,6 @@
 
 - 👨🏻‍💻 [How I work](https://github.com/aleksgorbenko/howiwork)
 
-- 📝 [My blog](https://aleksgorbenko.dev)
-
 ### _status
 
 - 🏗️ Preparing for [ITPEC FE Exam](https://itpec.org) with the goal to move to Japan 🇯🇵
@@ -14,8 +12,18 @@
 
 _As of July 2025_
 
+### 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=golang,java,spring,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,k8s,git,postman" />
+</p>
+
 ### _links
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
+- 📝 [Blog](https://aleksgorbenko.dev)
 - 📸 [Instagram](https://www.instagram.com/aleksgbko/) - architecture | street | urban photography
 
 <!--
