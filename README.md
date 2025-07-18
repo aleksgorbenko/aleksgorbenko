@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 [How I work](https://github.com/aleksgorbenko/howiwork)
 
-### 🛠️ languages_and_tools
+### _languages_and_tools
 
 <br>
 
