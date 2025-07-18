@@ -4,6 +4,15 @@
 
 - 👨🏻‍💻 [How I work](https://github.com/aleksgorbenko/howiwork)
 
+### 🛠️ languages_and_tools
+
+<br>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=golang,java,spring,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,k8s,git,postman" />
+</p>
+
 ### _status
 
 - 🏗️ Preparing for [ITPEC FE Exam](https://itpec.org) with the goal to move to Japan 🇯🇵
@@ -11,15 +20,6 @@
 - 📖 Reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
 _As of July 2025_
-
-### 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,java,spring,postgres,redis" />
-  <img src="https://skillicons.dev/icons?i=aws,terraform,k8s,git,postman" />
-</p>
 
 ### _links
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
