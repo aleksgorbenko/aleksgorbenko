@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Aleks
+## 👋 Hello there, I am Aleks
 
 - 👤 [Who am I and my past work experiences](https://github.com/aleksgorbenko/whoami) 
 
