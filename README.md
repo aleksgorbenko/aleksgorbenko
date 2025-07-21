@@ -2,7 +2,7 @@
 
 Disciplined Software Engineer with a strong focus on organization, process optimization, and team velocity. I bring a cross-functional perspective from my background in luxury hospitality and SEO, combined with well-rounded experience in distributed systems and scalable architecture.
 
-In my last role, I led a fully remote team of 8 engineers across 7 nationalities, managing three finTech products for UK-based banks and financial institutions. These systems were deployed in Kubernetes and designed as distributed microservices architectures.
+In my last role, I led a fully remote team of 8 engineers across 7 nationalities, managing three finTech products for UK-based banks and financial institutions. We managed around 13 microservices running in AWS EKS.
 
 More about me:
 
