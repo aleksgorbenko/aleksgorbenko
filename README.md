@@ -1,9 +1,12 @@
 ## 👋 Hello there, I am Aleks
 
-Disciplined Software Engineer with an emphasis on organisation, processes optimisation and team velocity with a background in luxury hospitality & seo.
+Disciplined Software Engineer with a strong focus on organization, process optimization, and team velocity. I bring a cross-functional perspective from my background in luxury hospitality and SEO, combined with deep experience in distributed systems and scalable architecture.
+
+In my last role, I led a fully remote team of 8 engineers across 7 nationalities, managing three finTech products for UK-based banks and financial institutions. These systems were deployed in Kubernetes and designed as distributed microservices architectures.
+
+More about me:
 
 - 👤 [Who am I and My Professional Path](https://github.com/aleksgorbenko/whoami)
-
 - 👨🏻‍💻 [How I Work](https://github.com/aleksgorbenko/howiwork)
 
 ### _languages_and_tools
