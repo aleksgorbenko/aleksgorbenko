@@ -1,8 +1,10 @@
 ## 👋 Hello there, I am Aleks
 
-- 👤 [Who am I and my past work experiences](https://github.com/aleksgorbenko/whoami) 
+Disciplined Software Engineer with an emphasis on organisation, processes optimisation and team velocity with a background in luxury hospitality & seo.
 
-- 👨🏻‍💻 [How I work](https://github.com/aleksgorbenko/howiwork)
+- 👤 [Who am I and My Professional Path](https://github.com/aleksgorbenko/whoami)
+
+- 👨🏻‍💻 [How I Work](https://github.com/aleksgorbenko/howiwork)
 
 ### _languages_and_tools
 
