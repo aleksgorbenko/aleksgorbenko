@@ -25,7 +25,7 @@ More about me:
 - 🏗️ Building things on [https://codecrafters.io/](https://codecrafters.io/) and leetcoding
 - 💭 Preparing for interviews - reach out if you recruit for Japanese companies which accept candidates from overseas
 
-_As of July 2025_
+_As of Nov 2025_
 
 ### _links
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
