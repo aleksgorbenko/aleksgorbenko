@@ -23,9 +23,9 @@ More about me:
 - 💬 Learning Japanese with [WaniKani](https://www.wanikani.com), [BunPro](https://bunpro.jp) and ChatGPT
 - 📖 Reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - 🏗️ Building things on [https://codecrafters.io/](https://codecrafters.io/) and leetcoding
-- 💭 Preparing for interviews - reach out if you recruit for Japanese companies which accept candidates from overseas
+- 💭 Preparing for interviews - reach out if you recruit for Japanese companies which accept candidates from overseas ([Fundamental Information Technology Engineer Examination](https://itpec.org/) (FE) certified and eligible for a Japan work visa.)
 
-_As of Nov 2025_
+_As of Dec 2025_
 
 ### _links
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
