@@ -1,13 +1,12 @@
 ## 👋 Hello there, I am Aleks
 
-Disciplined Software Engineer with a strong focus on organization, process optimization, and team velocity. I bring a cross-functional perspective from my background in luxury hospitality and SEO, combined with well-rounded experience in distributed systems and scalable architecture.
-
-In my last role, I led a fully remote team of 8 engineers across 7 nationalities, managing three finTech products for UK-based banks and financial institutions. We managed around 13 microservices running in AWS EKS.
+- Backend Engineer with 8+ years of experience building resilient systems, with a unique background in luxury hospitality
+- Led a remote team of 8 engineers across 7 nationalities managing three UK fintech products: Bacs, FPS, and Open Banking Confirmation of Payee
 
 More about me:
 
-- 👤 [Who am I and My Professional Path](https://github.com/aleksgorbenko/whoami)
 - 👨🏻‍💻 [How I Work](https://github.com/aleksgorbenko/howiwork)
+- 👤 [Who am I and My Professional Path](https://github.com/aleksgorbenko/whoami)
 
 ### _languages_and_tools
 
@@ -20,14 +19,12 @@ More about me:
 
 ### _status
 
+- 🏗️ Building AI harness for engineers at [chord.fm](https://chord.fm)
 - 💬 Learning Japanese with [WaniKani](https://www.wanikani.com), [BunPro](https://bunpro.jp) and ChatGPT
-- 📖 Reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- 🏗️ Building things on [https://codecrafters.io/](https://codecrafters.io/) and leetcoding
-- 💭 Preparing for interviews - reach out if you recruit for Japanese companies which accept candidates from overseas ([Fundamental Information Technology Engineer Examination](https://itpec.org/) (FE) certified and eligible for a Japan work visa.)
-
-_As of Dec 2025_
+- 💭 Open to opportunities with Japanese companies ([Fundamental Information Technology Engineer Examination](https://itpec.org/) certified, eligible for Japan work visa)
 
 ### _links
+
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
 - 📝 [Blog](https://aleksgorbenko.dev)
 - 📸 [Instagram](https://www.instagram.com/aleksgbko/) - architecture | street | urban photography
