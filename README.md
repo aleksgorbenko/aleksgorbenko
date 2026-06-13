@@ -8,7 +8,7 @@ More about me:
 - 👨🏻‍💻 [How I Work](https://github.com/aleksgorbenko/howiwork)
 - 👤 [Who am I and My Professional Path](https://github.com/aleksgorbenko/whoami)
 
-### _languages_and_tools
+### languages and tools
 
 <br>
 
@@ -17,16 +17,17 @@ More about me:
   <img src="https://skillicons.dev/icons?i=aws,terraform,k8s,git,postman" />
 </p>
 
-### _status
+### status
 
-- 🏗️ Building AI harness for engineers at [chord.fm](https://chord.fm)
 - 💬 Learning Japanese with [WaniKani](https://www.wanikani.com), [BunPro](https://bunpro.jp) and ChatGPT
+- 🏗️ Building my first macOS App
+- 🧲 Configuring AI Agent "Night Shift" to work locally on my mac while I sleep
 - 💭 Open to opportunities with Japanese companies ([Fundamental Information Technology Engineer Examination](https://itpec.org/) certified, eligible for Japan work visa)
 
-### _links
+### links
 
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
-- 📝 [Blog](https://aleksgorbenko.dev)
+- 📝 [Blog](https://aleksgorbenko.dev/)
 - 📸 [Instagram](https://www.instagram.com/aleksgbko/) - architecture | street | urban photography
 
 <!--
