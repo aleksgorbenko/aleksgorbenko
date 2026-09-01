@@ -15,6 +15,9 @@ More about me:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=golang,java,spring,postgres,redis" />
   <img src="https://skillicons.dev/icons?i=aws,terraform,k8s,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,docker,githubactions,grafana" />
+  <img src="https://skillicons.dev/icons?i=nats" />
+
 </p>
 
 ### status
@@ -29,6 +32,7 @@ More about me:
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
 - 📝 [Blog](https://aleksgorbenko.dev/)
 - 📸 [Instagram](https://www.instagram.com/aleksgbko/) - architecture | street | urban photography
+- 🏃 [Strava](https://www.strava.com/athletes/142821511)
 
 <!--
 **aleksgorbenko/aleksgorbenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
