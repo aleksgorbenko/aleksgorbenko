@@ -1,7 +1,7 @@
 ## 👋 Hello there, I am Aleks
 
 - Software Engineer with 8+ years of experience building resilient systems, with a unique background in luxury hospitality
-- Indie macOS developer: native apps in Swift, released on the Mac App Store and as direct downloads
+- Indie macOS developer: native apps in Swift - [Bukku](https://aleksgorbenko.dev/apps/bukku/) and [Clippu](https://aleksgorbenko.dev/apps/clippu/), released on the Mac App Store and as direct downloads
 - Led a remote team of 8 engineers across 7 nationalities managing three UK fintech products: Bacs, FPS, and Open Banking Confirmation of Payee
 
 More about me:
