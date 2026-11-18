@@ -15,10 +15,10 @@ More about me:
 <br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,golang,java,spring,postgres,redis" />
-  <img src="https://skillicons.dev/icons?i=aws,terraform,k8s,git,postman" />
-  <img src="https://skillicons.dev/icons?i=python,docker,githubactions,grafana" />
-  <img src="https://skillicons.dev/icons?i=nats" />
+  <img src="https://skillicons.dev/icons?i=swift,golang,java,spring,postgres,redis" alt="Swift, Go, Java, Spring, PostgreSQL, Redis" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,k8s,git,postman" alt="AWS, Terraform, Kubernetes, Git, Postman" />
+  <img src="https://skillicons.dev/icons?i=python,docker,githubactions,grafana" alt="Python, Docker, GitHub Actions, Grafana" />
+  <img src="https://skillicons.dev/icons?i=nats" alt="NATS" />
 
 </p>
 
@@ -35,19 +35,4 @@ More about me:
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
 - 📝 [Blog](https://aleksgorbenko.dev/)
 - 📸 [Instagram](https://www.instagram.com/aleksgbko/) - architecture | street | urban photography
-- 🏃 [Strava](https://www.strava.com/athletes/142821511)
-
-<!--
-**aleksgorbenko/aleksgorbenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏃 [Strava](https://www.strava.com/athletes/aleksgorbenko)

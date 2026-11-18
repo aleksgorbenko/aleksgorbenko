@@ -1,0 +1,6 @@
+no_progress = true
+exclude = [
+  "^https://www\\.linkedin\\.com/",
+  "^https://www\\.lucidchart\\.com/",
+  "^https://medium\\.com/",
+]
